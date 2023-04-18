@@ -58,9 +58,9 @@ nav
 {
     width: 175px;
     height: 175px;
-    position: sticky;
+    position: relative;
     left: 40px;
-    top: 120px;
+    top: 200px;
 }
 
 a
