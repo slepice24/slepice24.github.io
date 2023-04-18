@@ -32,8 +32,8 @@ nav
 {
     width: 20%;
     height: 20%;
-    position: relative;
-    left: 999px;
+    position: sticky;
+    left: 1199px;
     
 }
 
