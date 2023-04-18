@@ -43,7 +43,7 @@ nav
     width: 20%;
     height: 20%;
     position: sticky;
-    /*left: 1000px;*/
+    left: 1000px;
 }
 
 a
