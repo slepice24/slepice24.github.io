@@ -47,11 +47,11 @@ nav
 
 .image
 {
-    padding-left: 40px;
+    padding-left: 10px;
     width: 16%;
     height: 16%;
     position: sticky;
-    left: 250px;
+    left: 150px;
 }
 
 a
