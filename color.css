@@ -37,13 +37,21 @@ nav
     
 }
 
+.image9
+{
+    width: 15%;
+    height: 15%;
+    position: sticky;
+    left: 50px;
+}
+
 .image
 {
-    padding-top: 20px;
-    width: 20%;
-    height: 20%;
+    padding-left: 40px;
+    width: 16%;
+    height: 16%;
     position: sticky;
-    left: 1000px;
+    left: 50px;
 }
 
 a
