@@ -39,11 +39,11 @@ nav
 
 .image
 {
-    padding-top: 16px;
+    padding-top: 20px;
     width: 20%;
     height: 20%;
     position: sticky;
-    left: 1000px;
+    /*left: 1000px;*/
 }
 
 a
