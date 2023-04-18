@@ -25,7 +25,8 @@ nav
     position: absolute;
     left: 40px;
     color: #977eff;
-    
+    border: 5px #9200ff;
+
 }
 
 a
