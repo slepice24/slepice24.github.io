@@ -25,11 +25,29 @@ nav
     position: absolute;
     left: 40px;
     color: #977eff;
-    border: 5px #9200ff;
+
+}
+
+.main9
+{
+    width: 20%;
+    height: 20%;
+    position: sticky;
+    left: 1199px;
+    
+}
+
+.image
+{
+    width: 20%;
+    height: 20%;
+    position: relative;
+    left: 50px;
+    top: 500px;
 
 }
 
 a
 {
-    color: #977eff;
+    color: #d500ff;
 }
