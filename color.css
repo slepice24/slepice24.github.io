@@ -30,31 +30,29 @@ nav
 
 .main9
 {
-    padding: 10px;
     width: 20%;
     height: 20%;
     position: sticky;
-    left: 400px;
+    left: 350px;
     
 }
 
 .image9
 {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     position: sticky;
     left: 40px;
 }
 
-/*.image
+.image
 {
-    padding: 3px;
     width: 150px;
     height: 150px;
     position: relative;
-    left: 40px;
+    left: 100px;
 }
-*/
+
 
 a
 {
