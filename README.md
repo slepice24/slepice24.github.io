@@ -1,3 +1,3 @@
 # slepice24.github.io
 
-just me website
+just my website
