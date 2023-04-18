@@ -32,9 +32,9 @@ nav
 {
     width: 20%;
     height: 20%;
-    position: sticky;
-    left: 375px;
-    bottom: 10px;
+    position: relative;
+    left: 400px;
+    bottom: 15px;
     
 }
 
@@ -42,7 +42,7 @@ nav
 {
     width: 175px;
     height: 175px;
-    position: sticky;
+    position: relative;
     left: 40px;
 }
 
@@ -51,7 +51,7 @@ nav
     width: 175px;
     height: 175px;
     position: relative;
-    left: 80px;
+    left: 65px;
 }
 
 
