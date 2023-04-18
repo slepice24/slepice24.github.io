@@ -32,9 +32,9 @@ nav
 {
     width: 20%;
     height: 20%;
-    position: relative;
-    left: 400px;
-    bottom: 15px;
+    position: absolute;
+    left: 425px;
+    bottom: 20px;
     
 }
 
