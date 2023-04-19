@@ -60,9 +60,9 @@ nav
 {
     width: 150px;
     height: 150px;
-    position: static;
-    top: 70px;
-    left: 120px;
+    position: relative;
+    top: 80px;
+    left: 40px;
     
 }
 
