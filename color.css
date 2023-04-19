@@ -33,8 +33,9 @@ nav
     width: 25%;
     height: 25%;
     position: relative;
-    left: 425px;
     bottom: 20px;
+    left: 425px;
+    
     
 }
 
@@ -58,7 +59,7 @@ nav
 {
     width: 150px;
     height: 150px;
-    position: absolute;
+    position: relative;
     top: 100px;
     left: 40px;
     
