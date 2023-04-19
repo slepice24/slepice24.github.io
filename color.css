@@ -25,7 +25,7 @@ nav
     color: #977eff;
     position: relative;
     left: 40px;
-    
+    right: 40px;
 
 }
 
@@ -34,7 +34,7 @@ nav
     width: 25%;
     height: 25%;
     position: relative;
-    top: 50px;
+    top: 5px;
     left: 425px;
     
     
@@ -61,7 +61,7 @@ nav
     width: 150px;
     height: 150px;
     position: relative;
-    top: 80px;
+    top: 60px;
     left: 40px;
     
 }
