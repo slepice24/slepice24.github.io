@@ -58,7 +58,7 @@ nav
 {
     width: 150px;
     height: 150px;
-    position: relative;
+    position: absolute;
     left: 40px;
     top: 100px;
 }
