@@ -19,12 +19,12 @@ nav
 }
 */
 
-ul
+.things
 {
     padding: 3px;
     background-color: #390097;
     color: #977eff;
-    position: absolute;
+    position: static;
     left: 40px;
     right: 60px;
 
