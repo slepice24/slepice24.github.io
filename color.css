@@ -22,9 +22,10 @@ nav
 {
     padding: 3px;
     background-color: #390097;
+    color: #977eff;
     position: relative;
     left: 40px;
-    color: #977eff;
+    
 
 }
 
@@ -33,7 +34,7 @@ nav
     width: 25%;
     height: 25%;
     position: relative;
-    bottom: 20px;
+    top: 50px;
     left: 425px;
     
     
@@ -60,7 +61,7 @@ nav
     width: 150px;
     height: 150px;
     position: relative;
-    top: 100px;
+    top: 80px;
     left: 40px;
     
 }
