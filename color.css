@@ -60,7 +60,7 @@ nav
 {
     width: 150px;
     height: 150px;
-    position: relative;
+    position: static;
     top: 70px;
     left: 120px;
     
