@@ -33,7 +33,7 @@ nav
 {
     width: 25%;
     height: 25%;
-    position: relative;
+    position: absolute;
     top: 50px;
     left: 425px;
     
