@@ -24,7 +24,7 @@ nav
     padding: 3px;
     background-color: #390097;
     color: #977eff;
-    position: static;
+    position: absolute;
     left: 40px;
     right: 60px;
 
