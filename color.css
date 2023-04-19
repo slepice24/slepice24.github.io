@@ -22,7 +22,7 @@ nav
 {
     padding: 3px;
     background-color: #390097;
-    position: absolute;
+    position: relative;
     left: 40px;
     color: #977eff;
 
@@ -32,7 +32,7 @@ nav
 {
     width: 25%;
     height: 25%;
-    position: sticky;
+    position: relative;
     left: 425px;
     bottom: 20px;
     
@@ -59,8 +59,9 @@ nav
     width: 150px;
     height: 150px;
     position: absolute;
-    left: 40px;
     top: 100px;
+    left: 40px;
+    
 }
 
 a
