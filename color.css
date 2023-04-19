@@ -18,14 +18,15 @@ nav
     top: 150px;
 }
 */
-.things
+
+ul
 {
     padding: 3px;
     background-color: #390097;
     color: #977eff;
-    position: relative;
+    position: absolute;
     left: 40px;
-    right: 40px;
+    right: 60px;
 
 }
 
