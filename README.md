@@ -2,6 +2,8 @@
 
 just my website
 
+https://slepice24.github.io/index.html
+
 btw i have no idea what i am doing but ist fun
 
     images that i used:
